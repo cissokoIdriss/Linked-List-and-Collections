@@ -7,7 +7,7 @@ It uses the <strong> Collections.sort() </strong> and follows <strong> Object-Or
  - Single Responsibility Principle: Each class has a dedicated function.
  - Code Reusability: Leveraging Java’s built-in LinkedList and sorting methods from the collection framework.
 
-# image Sample
+# Sample Image
 <img width="999" alt="Screenshot 2025-02-25 at 8 29 18 PM" src="https://github.com/user-attachments/assets/f7f4608f-4469-4554-831a-44498c60a128" />
 
 #  ✨ Features
