@@ -69,5 +69,6 @@ Then open doc/index.html in the browser
 
 # Notes
 A new version which uses a stack is available. It also includes a Jar file to prevent compilation errors.
+You can find it <a href="https://github.com/cissokoIdriss/Stack-and-Collections" target="_blank" ref="noreferrer"> Here </a>
 
 
