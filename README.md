@@ -28,7 +28,7 @@ It uses the <strong> Collections.sort() </strong> and follows <strong> Object-Or
         |-- Main.java     # Entry point of the program
         |-- MenuOptionsDisplay.java  # Display menu options
         |-- MyLinkedList.java  # Manages linked List
-        |-- SortLinkedList.java  # sort the linked list
+        |-- SortLinkedList.java  # Sorts the linked list
         |-- UserInputManagement.java # handles user input
    |-- Readme.txt
    |-- UML-DIAGRAM.pdf 
